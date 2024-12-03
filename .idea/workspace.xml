@@ -1,18 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="addae951-1b0e-44d0-8cff-18f4c850634d" name="Changes" comment="" />
+    <list default="true" id="addae951-1b0e-44d0-8cff-18f4c850634d" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/template_day/part_1/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template_day/part_2/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_1/part_1/input.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_1/part_1/example.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_1/part_1/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_1/part_1/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template_day/part_1/input.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_1/part_1/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template_day/part_1/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/template_day/part_1/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template_day/part_2/input.py" beforeDir="false" afterPath="$PROJECT_DIR$/template_day/part_1/example.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template_day/part_2/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/template_day/part_2/solution.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PythonHugs&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PythonHugs/AdventOfCode2024&quot;,
+    &quot;accountId&quot;: &quot;f92d057e-8619-4e17-9122-17e964780d1d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2pga9roHLi9c3QmA42O0N3Nv2uE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,13 +53,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.solution.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/jason/PycharmProjects/AdventOfCode2024",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/template_day/part_2" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -44,8 +89,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733190024256</updated>
-      <workItem from="1733190025351" duration="5000" />
+      <workItem from="1733190025351" duration="1478000" />
+      <workItem from="1733191511303" duration="2216000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1733190866536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733190866536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AdventOfCode2024$solution.coverage" NAME="solution Coverage Results" MODIFIED="1733194694313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_1/part_1" />
   </component>
 </project>
