@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="addae951-1b0e-44d0-8cff-18f4c850634d" name="Changes" comment="day 3 part 1 solved">
-      <change afterPath="$PROJECT_DIR$/day_3/part_2/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_3/part_2/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day_3/part_2/solution.py" afterDir="false" />
+    <list default="true" id="addae951-1b0e-44d0-8cff-18f4c850634d" name="Changes" comment="prep for day 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_4/part_1/example.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day_4/part_1/example.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_4/part_1/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_4/part_1/solution.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +90,7 @@
       <workItem from="1733190025351" duration="1478000" />
       <workItem from="1733191511303" duration="5995000" />
       <workItem from="1733245888168" duration="28000" />
-      <workItem from="1733245920705" duration="15227000" />
+      <workItem from="1733245920705" duration="22254000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -149,7 +148,23 @@
       <option name="project" value="LOCAL" />
       <updated>1733259990170</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="day 3 part 2 solved">
+      <option name="closed" value="true" />
+      <created>1733262948955</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1733262948955</updated>
+    </task>
+    <task id="LOCAL-00009" summary="prep for day 4">
+      <option name="closed" value="true" />
+      <created>1733263049608</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733263049608</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,9 +177,11 @@
     <MESSAGE value="day 2 part 1 solved" />
     <MESSAGE value="day 2 part 2 struggling" />
     <MESSAGE value="day 3 part 1 solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 3 part 1 solved" />
+    <MESSAGE value="day 3 part 2 solved" />
+    <MESSAGE value="prep for day 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="prep for day 4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AdventOfCode2024$solution.coverage" NAME="solution Coverage Results" MODIFIED="1733262162836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_3/part_2" />
+    <SUITE FILE_PATH="coverage/AdventOfCode2024$solution.coverage" NAME="solution Coverage Results" MODIFIED="1733343120718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day_4/part_1" />
   </component>
 </project>
